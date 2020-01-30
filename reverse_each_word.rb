@@ -14,3 +14,5 @@ def reverse_each_word_with_each(string)
   end
   return_array.join(" ")
 end
+
+reverse_each_word("Hello there, and how are you?")
